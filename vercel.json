@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/cors-in-nextjs",
+      "destination": "https://learnwithgurpreet.com/cors-in-nextjs/", 
+      "permanent": true
+    }
+  ]
+}
