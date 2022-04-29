@@ -1,8 +1,218 @@
 {
   "redirects": [
-    { 
+    {
+      "source": "/",
+      "destination": "https://learnwithgurpreet.com/",
+      "permanent": true
+    },
+    {
+      "source": "/top-5-ways-to-structure-a-frontend-project/",
+      "destination": "https://learnwithgurpreet.com/top-5-ways-to-structure-a-frontend-project/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-write-short-javascript-code/",
+      "destination": "https://learnwithgurpreet.com/how-to-write-short-javascript-code/",
+      "permanent": true
+    },
+    {
+      "source": "/day-5-your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/day-5-your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/are-you-logging-your-nodejs-code/",
+      "destination": "https://learnwithgurpreet.com/are-you-logging-your-nodejs-code/",
+      "permanent": true
+    },
+    {
+      "source": "/can-we-use-google-services-without-compromising-privacy/",
+      "destination": "https://learnwithgurpreet.com/can-we-use-google-services-without-compromising-privacy/",
+      "permanent": true
+    },
+    {
+      "source": "/host-your-strapi-project/",
+      "destination": "https://learnwithgurpreet.com/host-your-strapi-project/",
+      "permanent": true
+    },
+    {
+      "source": "/my-first-strapi-project-experience/",
+      "destination": "https://learnwithgurpreet.com/my-first-strapi-project-experience/",
+      "permanent": true
+    },
+    {
+      "source": "/express-js-ejs-complete-solution/",
+      "destination": "https://learnwithgurpreet.com/express-js-ejs-complete-solution/",
+      "permanent": true
+    },
+    {
+      "source": "/node-js-login-service-express-js-passport/",
+      "destination": "https://learnwithgurpreet.com/node-js-login-service-express-js-passport/",
+      "permanent": true
+    },
+    {
+      "source": "/day-1-your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/day-1-your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/day-2-your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/day-2-your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/day-3-your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/day-3-your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/day-4-your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/day-4-your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/day-6-your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/day-6-your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/responsive-vs-adaptive-design/",
+      "destination": "https://learnwithgurpreet.com/responsive-vs-adaptive-design/",
+      "permanent": true
+    },
+    {
+      "source": "/how-i-explained-web-designing-to-my-grandmother/",
+      "destination": "https://learnwithgurpreet.com/how-i-explained-web-designing-to-my-grandmother/",
+      "permanent": true
+    },
+    {
+      "source": "/aria-is-not-my-thing/",
+      "destination": "https://learnwithgurpreet.com/aria-is-not-my-thing/",
+      "permanent": true
+    },
+    {
+      "source": "/do-we-really-need-class-components-anymore/",
+      "destination": "https://learnwithgurpreet.com/do-we-really-need-class-components-anymore/",
+      "permanent": true
+    },
+    {
+      "source": "/my-react-stack-for-2021/",
+      "destination": "https://learnwithgurpreet.com/my-react-stack-for-2021/",
+      "permanent": true
+    },
+    {
+      "source": "/up-and-running-with-raspberrypi-with-docker/",
+      "destination": "https://learnwithgurpreet.com/up-and-running-with-raspberrypi-with-docker/",
+      "permanent": true
+    },
+    {
+      "source": "/pihole-on-docker/",
+      "destination": "https://learnwithgurpreet.com/pihole-on-docker/",
+      "permanent": true
+    },
+    {
+      "source": "/github-copilot-future-of-programming/",
+      "destination": "https://learnwithgurpreet.com/github-copilot-future-of-programming/",
+      "permanent": true
+    },
+    {
+      "source": "/i-dont-know-javascript-but-reactjs/",
+      "destination": "https://learnwithgurpreet.com/i-dont-know-javascript-but-reactjs/",
+      "permanent": true
+    },
+    {
       "source": "/cors-in-nextjs/",
-      "destination": "https://learnwithgurpreet.com/cors-in-nextjs/", 
+      "destination": "https://learnwithgurpreet.com/cors-in-nextjs/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://learnwithgurpreet.com/",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy/",
+      "destination": "https://learnwithgurpreet.com/cookie-policy/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "https://learnwithgurpreet.com/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/register/",
+      "destination": "https://learnwithgurpreet.com/register/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/nodejs/",
+      "destination": "https://learnwithgurpreet.com/tag/nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/programming/",
+      "destination": "https://learnwithgurpreet.com/tag/programming/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/nextjs/",
+      "destination": "https://learnwithgurpreet.com/tag/nextjs/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/docker/",
+      "destination": "https://learnwithgurpreet.com/tag/docker/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/raspberry-pi/",
+      "destination": "https://learnwithgurpreet.com/tag/raspberry-pi/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/reactjs/",
+      "destination": "https://learnwithgurpreet.com/tag/reactjs/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/web-accessibility/",
+      "destination": "https://learnwithgurpreet.com/tag/web-accessibility/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/expressjs/",
+      "destination": "https://learnwithgurpreet.com/tag/expressjs/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/strapi/",
+      "destination": "https://learnwithgurpreet.com/tag/strapi/",
+      "permanent": true
+    },
+    {
+      "source": "/category/programming/",
+      "destination": "https://learnwithgurpreet.com/category/programming/",
+      "permanent": true
+    },
+    {
+      "source": "/category/your-first-week-in-nodejs/",
+      "destination": "https://learnwithgurpreet.com/category/your-first-week-in-nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/category/thoughts/",
+      "destination": "https://learnwithgurpreet.com/category/thoughts/",
+      "permanent": true
+    },
+    {
+      "source": "/category/nodejs/",
+      "destination": "https://learnwithgurpreet.com/category/nodejs/",
+      "permanent": true
+    },
+    {
+      "source": "/category/privacy/",
+      "destination": "https://learnwithgurpreet.com/category/privacy/",
       "permanent": true
     }
   ]
