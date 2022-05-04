@@ -7,7 +7,7 @@
     },
     {
       "source": "/:path*/",
-      "destination": "/new/:path*/",
+      "destination": "https://learnwithgurpreet.com/:path*/",
       "permanent": true
     }
   ]
