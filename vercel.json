@@ -1,8 +1,14 @@
 {
   "redirects": [
     {
-      "source": "/legacy/:path*",
-      "destination": "/new/:path*"
+      "source": "/",
+      "destination": "https://learnwithgurpreet.com/",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "/new/:path*",
+      "permanent": true
     }
   ]
 }
