@@ -6,8 +6,8 @@
       "permanent": true
     },
     {
-      "source": "/:path*",
-      "destination": "/new/:path*",
+      "source": "/:path*/",
+      "destination": "/new/:path*/",
       "permanent": true
     }
   ]
